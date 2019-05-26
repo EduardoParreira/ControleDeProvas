@@ -11,7 +11,7 @@ import java.sql.SQLException;
 public class MySQL {
 
     public static final String DRIVER = "com.mysql.jdbc.Driver";
-    public static final String DBURL = "jdbc:mysql:///naysoft";
+    public static final String DBURL = "jdbc:mysql:///controledeprovas";
     private static Connection con;
 // metodo para criar a conexao com MySQL
 
